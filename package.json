@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "nodemon ./bin/www"
+    "start": "node server.js",
+"build":"now-build"
   },
   "dependencies": {
     "body-parser": "~1.18.3",
